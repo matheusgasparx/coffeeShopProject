@@ -1,3 +1,3 @@
-  <h2> Project only in Bootstrap. <h2/>
+  <h1> Project only in Bootstrap. <h1/>
 
 <p>https://www.udemy.com/course/curso-web/</p>
